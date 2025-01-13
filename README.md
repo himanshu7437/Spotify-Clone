@@ -39,7 +39,7 @@ A visually stunning and fully functional Spotify Clone built using HTML and CSS.
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/spotify-clone.git
+   git clone https://github.com/himanshu7437/spotify-clone.git
    ```
 
 2. Open the `index.html` file in your web browser.
